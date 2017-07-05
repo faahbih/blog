@@ -1,24 +1,24 @@
 Principais comandos:
 
-Install Jekyll and Bundler gems through RubyGems
-  **~ $ gem install jekyll bundler**
+    Install Jekyll and Bundler gems through RubyGems
+      **~ $ gem install jekyll bundler**
 
-Create a new Jekyll site at ./myblog
-  **~ $ jekyll new myblog**
-  
-Show bundle gem (exemplo de tema minima)
-  **~ $ bundle show mimina**
+    Create a new Jekyll site at ./myblog
+      **~ $ jekyll new myblog**
 
-Change into your new directory
-  **~ $ cd myblog**
+    Show bundle gem (exemplo de tema minima)
+      **~ $ bundle show mimina**
 
-Build the site on the preview server
-  **~/myblog $ bundle exec jekyll build**
+    Change into your new directory
+      **~ $ cd myblog**
 
-Running
-  **~/myblog $ bundle exec jekyll serve or s**
+    Build the site on the preview server
+      **~/myblog $ bundle exec jekyll build**
 
-browse to localhost:4000
+    Running
+      **~/myblog $ bundle exec jekyll serve or s**
 
-Ctrl-C to stop
+    browse to localhost:4000
+
+    Ctrl-C to stop
   
