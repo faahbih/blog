@@ -7,7 +7,7 @@ Create a new Jekyll site at ./myblog
   **~ $ jekyll new myblog**
   
 Show bundle gem (exemplo de tema minima)
-  **~ $ bundle show mimina
+  **~ $ bundle show mimina**
 
 Change into your new directory
   **~ $ cd myblog**
