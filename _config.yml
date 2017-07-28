@@ -24,7 +24,7 @@ markdown: kramdown
 theme: minima
 permalink: /:title
 exclude:
-  - Gemfile
-  - Gemfile.lock
+  # - Gemfile
+  # - Gemfile.lock
 
 
