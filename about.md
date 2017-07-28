@@ -6,6 +6,8 @@ permalink: /about/
 
 Sou Fabiana Oliveira, estudante em Análise e Desenvolvimento de Sistemas, trabalho com desenvolvimento web, identidade visual, desgin de ícones e logos.
 
+
+
 Meu Portfolio:
 [behance](https://www.behance.net/fabianarroliveira)
 

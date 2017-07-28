@@ -1,10 +1,11 @@
-title: Fabiana Oliveira
+title: Blog de Programadora
 author: fabiana oliveira
 email: fabiana.rr.oliveira@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Olá, me chamo Fabiana Oliveira, sou estudante em Análise e Desenvolvimento de Sistemas 
-  e este é um blog de estudo usando a ferramenta jekyll.
-
+  e este é um blog de estudo e pessoal usando a ferramenta jekyll.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: __hibhaaf
 github_username:  faahbih
 
@@ -21,8 +22,9 @@ minima:
 # Build settings
 markdown: kramdown
 theme: minima
+permalink: /:title
 exclude:
   # - Gemfile
   # - Gemfile.lock
 
-permalink: /:title
+
